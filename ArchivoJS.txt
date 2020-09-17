@@ -1,0 +1,17 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+	<title>Victoria Sandoval Puc</title>
+		<script>
+       		 	function showAlert () {
+    			window.alert('Gracias por dar clic')
+				}
+    		</script>
+	</head>
+<body>
+	<p onclick="ShowAlert();"> Bienvenidos a mi web</p>
+	
+	<script src="js/estilo.js"></script>
+		
+</body>
+</html>
